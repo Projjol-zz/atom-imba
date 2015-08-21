@@ -1,0 +1,14 @@
+{
+  "name": "atom-imba",
+  "version": "0.0.1",
+  "description": "Port of the Sublime package for Imba",
+  "keywords": [
+  ],
+  "repository": "https://github.com/Projjol/atom-imba",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
